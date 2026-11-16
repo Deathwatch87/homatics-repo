@@ -3,9 +3,9 @@
 <addon id="repository.homatics" name="Homatics Repository" version="1.0.0" provider-name="Joe">
   <extension point="xbmc.addon.repository" name="Homatics Repository">
     <dir>
-      <info compressed="false">https://deathwatch87.github.io/homatics-repo/addons.xml</info>
-      <checksum>https://deathwatch87.github.io/homatics-repo/addons.xml.md5</checksum>
-      <datadir zip="true">https://deathwatch87.github.io/homatics-repo/zips/</datadir>
+      <info compressed="false">https://raw.githubusercontent.com/Deathwatch87/homatics-repo/main/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Deathwatch87/homatics-repo/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Deathwatch87/homatics-repo/main/zips/</datadir>
       <hashes>sha256</hashes>
     </dir>
   </extension>
