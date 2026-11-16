@@ -51,7 +51,7 @@
 0.1.0 - first version: detect, report, manual re-apply, optional automatic re-apply, rollback.</news>
   </extension>
 </addon>
-<addon id="skin.nimbus" version="99.2.5" name="Nimbus Homatics"
+<addon id="skin.nimbus" version="99.2.6" name="Nimbus Homatics"
 	provider-name="Ivar Brandt">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
