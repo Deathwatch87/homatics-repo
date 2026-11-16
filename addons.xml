@@ -16,7 +16,7 @@
     <license>GPL-2.0-or-later</license>
   </extension>
 </addon>
-<addon id="script.boxtune" name="Box Tuner" version="0.3.5" provider-name="Joe">
+<addon id="script.boxtune" name="Box Tuner" version="0.3.6" provider-name="Joe">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
